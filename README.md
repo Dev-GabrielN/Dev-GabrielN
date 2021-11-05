@@ -2,7 +2,7 @@
 - 🔭 Estou na faculdade de ADS.
 - 🌱 Gosto de aprender assuntos diversos sobre progamação.
 - 💬 Me pergunte sobre qualquer coisa envolvendo programação, xD.
-- ⚡Fato engraçado: As vezes meu código dá erro e eu fico 3 horas debugando pra achar o ";" que não botei...
+- ⚡Fato engraçado: As vezes meu código dá erro e eu fico 3 horas debugando pra achar o ";" que não vi...
 
  <div>
   <a href="https://github.com/Dev-GabrielN">
