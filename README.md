@@ -1,5 +1,5 @@
 # Olá! eu sou Gabriel Nascimento.
-- 🔭 Estou na faculdade de ADS.
+- 🔭 Estou na faculdade de Coding.
 - 🌱 Gosto de aprender assuntos diversos sobre progamação.
 - 💬 Me pergunte sobre qualquer coisa envolvendo programação, xD.
 - ⚡Fato engraçado: As vezes meu código dá erro e eu fico 3 horas debugando pra achar o ";" que não vi...
