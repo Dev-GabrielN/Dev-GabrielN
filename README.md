@@ -1,9 +1,8 @@
 # Olá! eu sou Gabriel Nascimento.
-- 🔭 Estou na faculdade de Coding.
-- 🌱 Gosto de aprender assuntos diversos sobre progamação.
-- 💬 Me pergunte sobre qualquer coisa envolvendo programação, xD.
-- ⚡Fato engraçado: As vezes meu código dá erro e eu fico 3 horas debugando pra achar o ";" que não vi...
-
+- 🧑‍🎓 Formado em Análise e desenvolvimento de Sistemas e Coding.
+- 🌱 Amante de programação e sempre pronto para aprender e compartilhar conhecimentos.
+- 💬 Me pergunte sobre qualquer coisa relacionada à área!
+- 😅 Fato engraçado: Já fiquei 3 horas debugando meu código por causa de um ";" no lugar errado. 🦆
  <div>
   <a href="https://github.com/Dev-GabrielN">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-GabrielN&langs_count=8&layout=compact&theme=tokyonight"/>
